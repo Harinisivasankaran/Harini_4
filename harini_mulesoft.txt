@@ -1,6 +1,0 @@
-create table Movies(moviename varchar(50),actor varchar(50),actress varchar(50),director varchar(50),year_of_release int);
-insert into movies values('inidhu_inidhu','arun','reshmi menon','guhan',2010);
-insert into movies values('nanban','vijay','ileana','shankar',2012);
-insert into movies values('singam','surya','anushkha','hari',2010);
-insert into movies values('oh_my_friend','siddharth','shruthihasan','venu',2011);
-select*from movies;
